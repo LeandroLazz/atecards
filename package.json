@@ -1,7 +1,7 @@
 {
-  "name": "atecards",
+  "name": "atecards-backend",
   "version": "1.0.0",
-  "description": "Master cards to learn other laguages",
+  "description": "Master cards to learn other languages",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
